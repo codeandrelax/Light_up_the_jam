@@ -1,0 +1,12 @@
+../Core/Src/main.c:31:9:strcmp_v	24	static
+../Core/Src/main.c:41:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:93:5:main	16	static
+../Core/Src/main.c:136:6:effect1Select	4	static
+../Core/Src/main.c:182:6:effect2Select	4	static
+../Core/Src/main.c:280:6:effect3Select	4	static
+../Core/Src/main.c:428:6:effect4Select	4	static
+../Core/Src/main.c:576:6:effect5Select	4	static
+../Core/Src/main.c:729:6:SystemClock_Config	88	static
+../Core/Src/main.c:775:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:796:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:833:6:Error_Handler	4	static,ignoring_inline_asm
