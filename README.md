@@ -26,6 +26,7 @@ For Ender 3, it takes around 1h and 39 minutes to print two of those, and the we
 
 # Hardware
 
+![image](https://github.com/user-attachments/assets/614c74bc-3e68-4f90-b56e-f510a51a12f4)
 
 
 # Firmware
