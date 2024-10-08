@@ -18,6 +18,11 @@ Holders are designed to be easily 3D printable.
 
 ![image](https://github.com/user-attachments/assets/4a19a32e-bf73-41f2-afee-bc2451b5e0d0)
 
+These holders print without support in Cura slicer.
+
+![image](https://github.com/user-attachments/assets/88e0612a-08a1-4ba9-9d0b-59e3f9210ffe)
+
+For Ender 3, it takes around 1h and 39 minutes to print two of those, and the weight of material used is approximately 11 grams.
 
 # Hardware
 
